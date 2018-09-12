@@ -1,0 +1,172 @@
+martial arts term	MA	Martial arts	Martial arts-related terminology.
+rude or X-rated term (not displayed in educational software)	X	Rude or X-rated	Rude or X-rated terminolgy that is potentially offensive.
+abbreviation	abbr	Abbreviation	Abbreviated word phrase, or name.
+adjective (keiyoushi)	adj-i	い-adjective （形容詞）	Adjective ending in い.
+adjective (keiyoushi) - yoi/ii class	adj-ix	い-adjective （形容詞） - 良い class	い-adjective ending in 良い.
+adjectival nouns or quasi-adjectives (keiyodoshi)	adj-na	な-adjective （形容動詞）	Adjective that takes な when used prior to a noun.
+nouns which may take the genitive case particle `no'	adj-no	の-adjective	Descriptive noun used before の to describe another noun.
+pre-noun adjectival (rentaishi)	adj-pn	Pre-noun adjectival （連体詞）	Adjective used only immediately before a noun.
+`taru' adjective	adj-t	たる-adjective	Adjective ending in たる.
+noun or verb acting prenominally	adj-f	Adjectival noun or verb	Noun or verb used as an adjective before a noun.
+adverb (fukushi)	adv	Adverb （副詞）	Adverb, generally formed by changing the last character of an い-adjective from い to く or by appending に to a な-adjective.
+adverb taking the `to' particle	adv-to	と-adverb	Adverb, generally formed by appending と to a noun.
+archaism	arch	Archaism	Archaic or old-fashioned term. Rarely used in modern everyday speech.
+ateji (phonetic) reading	ateji	Phonetic reading （当て字）	Kanji used for their readings without regard to meaning. Common in imported foreign words and place names.
+auxiliary	aux	Auxiliary	Gramatical structure used to add nuance to another word or clause.
+auxiliary verb	aux-v	Auxiliary verb	Verb used to add nuance to another verb.
+auxiliary adjective	aux-adj	Auxiliary adjective	Adjective used to add nuance to another word.
+Buddhist term	Buddh	Bhuddism	Buddhism-related terminology.
+chemistry term	chem	Chemistry	Chemistry-related terminology.
+children's language	chn	Children's language	Language used primarily or only by children.
+colloquialism	col	Colloquialism	Colloquial speech rarely if ever used in formal or written contexts.
+computer terminology	comp	Computers	Computer-related terminology.
+conjunction	conj	Conjunction	Word or phrase used to join two other words or clauses.
+copula	cop-da	Copula	Word used to link the subject of a sentence to the predicate.
+counter	ctr	Counter	Word used after a number to denote the type of object when counting. Generally placed immediately prior to a verb or before の followed by a noun.
+derogatory	derog	Derogatory	Derogatory language used to talk badly about someone or something. Generally considered offensive.
+exclusively kanji	eK	Exclusively kanji	Word only ever written using kanji.
+exclusively kana	ek	Eclusively kana	Word only ever written using kana. There may be no associated kanji.
+expressions (phrases, clauses, etc.)	exp	Expression	Commonly used phrase or clause made up of other words.
+familiar language	fam	Familiar language	Term or language primarily or exclusively used between people who know each other well (and are in the same in-group).
+female term or language	fem	Female language	Term or language primariy used by people who present/identify in a feminine manner.
+food term	food	Food	Food-related terminology
+geometry term	geom	Geometry	Geometry-related terminoloy.
+gikun (meaning as reading) or jukujikun (special kanji reading)	gikun	Special reading （義訓・熟字訓）	Kanji read by according to meaning （義訓） or special kanji reading （熟字訓）.
+honorific or respectful (sonkeigo) language	hon	Honorific language （尊敬語）	Language to honor or show respect to the subject of a sentence.
+humble (kenjougo) language	hum	Humble language （謙譲語）	Language used to humble or show deference by tehe subject of a sentence.
+word containing irregular kanji usage	iK	Irregular 漢字	Word containing 漢字 used in an irregular or nonstandard way.
+idiomatic expression	id	Idiomatic expression	Expression or saying with a secondary, metaphoric meaning. Potentially Japanese-specific (i.e. no direct idiomatic translation).
+word containing irregular かな usage	ik	Irregular かな	Word containing かな used in an irregular or nonstandard way.
+interjection (kandoushi)	int	Interjection （感動詞）	Word or phrase used to get another's attention or express feeling towards a topc or event.
+irregular okurigana usage	io	Irregular 送り仮名	Word containing 送り仮名 (かな, which may or may not inflect, at the end of a word) used in an irregular or nonstandard way.
+irregular verb	iv	Irregular verb	Verb whose conjugations do not follow an established pattern (e.g. する、来る).
+linguistics terminology	ling	Linguistics	Linguistics-related terminology.
+manga slang	m-sl	漫画 slang	Slang word or phrase used primarily in 漫画・アニメ.
+male term or language	male	Male language	Term or language primariy used by people who present/identify in a masculine manner.
+male slang	male-sl	Male slang	Slang term or language primariy used by people who present/identify in a masculine manner.
+mathematics	math	Mathematics	Mathematics-related terminology.
+military	mil	Military	Military-related terminology.
+noun (common) (futsuumeishi)	n	Noun （普通名詞）	Common noun.
+adverbial noun (fukushitekimeishi)	n-adv	Adverbial noun （副詞的名詞）	Noun used as an adverb.
+noun, used as a suffix	n-suf	Suffix Noun	Noun used as a suffix.
+noun, used as a prefix	n-pref	Prefix Noun	Noun used as a prefix.
+noun (temporal) (jisoumeishi)	n-t	Temporal noun （時相名詞）	Noun representing a period or point in time.
+numeric	num	Number	Numeric value. Used before counters.
+word containing out-dated kanji	oK	Outdated 漢字	Word containing 漢字 no longer in common use.
+obsolete term	obs	Obsolete	Word or phrase that has been fallen out of use due to irrelevance or replacement by another term.
+obscure term	obsc	Obscure	Word or phrase that has fallen into obscurity and is thus not commonly knwon or understood.
+out-dated or obsolete kana usage	ok	Outdated/obsolete かな	Word using an outdated かな spelling.
+old or irregular kana form	oik	Old/irregular かな	Word using an outdated or irregular かな form.
+onomatopoeic or mimetic word	on-mim	Onomatopoeia	Word that resembles or phonetically imitates the concept it represents.
+pronoun	pn	Pronoun	Word that stands in for a noun. Often used when referring to people.
+poetical term	poet	Poetical	Poetical terminology.
+polite (teineigo) language	pol	Polite language （丁寧語）	Language used to increase the politeness of an exchange.
+prefix	pref	Prefix	Word that can be prepended to another word to add nuance.
+proverb	proverb	Proverb	Proverbial saying or phrase.
+particle	prt	Particle	Short grammatical token used to mark the role of the preceding clause.
+physics terminology	physics	Physics	Physics-related terminology.
+rare	rare	Rare	Rare or uncommon word or phrase.
+sensitive	sens	Sensitive	Sensitive, or potentially offensive, word or phrase. May have unfortunate connotations or be poltically controversial.
+slang	sl	Slang	Slang term, used primarily or only in impolite speech. May be specific to or connote a particular demographic group.
+suffix	suf	Suffix	Word that can be appended to another word to add nuance.
+word usually written using kanji alone	uK	Usually 漢字	
+word usually written using kana alone	uk	Usually かな	
+unclassified	unc	Unclassified	
+yojijukugo	yoji	Four-character idiomatic compound （四字熟語）	
+Ichidan verb	v1	る-verb （一段動詞）	
+Ichidan verb - kureru special class	v1-s	る-verb （一段動詞） - 呉れる special class	
+Nidan verb with 'u' ending (archaic)	v2a-s	Group 2 verb （二段動詞） with う ending (archaic)	
+Yodan verb with `hu/fu' ending (archaic)	v4h	Group 4 verb （四段動詞） with ふ ending (archaic)	
+Yodan verb with `ru' ending (archaic)	v4r	Group 4 verb （四段動詞） with る ending (archaic)	
+Godan verb - -aru special class	v5aru	う-verb （五段動詞） - ～ある special class	
+Godan verb with `bu' ending	v5b	う-verb （五段動詞） with ぶ ending	
+Godan verb with `gu' ending	v5g	う-verb （五段動詞） with ぐ ending	
+Godan verb with `ku' ending	v5k	う-verb （五段動詞） with く ending	
+Godan verb - Iku/Yuku special class	v5k-s	う-verb （五段動詞） - 行く special class	
+Godan verb with `mu' ending	v5m	う-verb （五段動詞） with む ending	
+Godan verb with `nu' ending	v5n	う-verb （五段動詞） with ぬ ending	
+Godan verb with `ru' ending	v5r	う-verb （五段動詞） with る ending	
+Godan verb with `ru' ending (irregular verb)	v5r-i	う-verb （五段動詞） with る ending (irregular)	
+Godan verb with `su' ending	v5s	う-verb （五段動詞） with す ending	
+Godan verb with `tsu' ending	v5t	う-verb （五段動詞） with つ ending	
+Godan verb with `u' ending	v5u	う-verb （五段動詞） with う ending	
+Godan verb with `u' ending (special class)	v5u-s	う-verb （五段動詞） with う ending (special class)	
+Godan verb - Uru old class verb (old form of Eru)	v5uru	う-verb （五段動詞） - うる old class	
+Ichidan verb - zuru verb (alternative form of -jiru verbs)	vz	る-verb （一段動詞） - ～ずる class	
+intransitive verb	vi	Intransitive verb （自動詞）	
+Kuru verb - special class	vk	来る-verb (special class)	
+irregular nu verb	vn	ぬ-verb (irregular)	
+irregular ru verb, plain form ends with -ri	vr	る-verb with り ending in plain form (irregular)	
+noun or participle which takes the aux. verb suru	vs	する-verb	
+su verb - precursor to the modern suru	vs-c	す-verb	
+suru verb - special class	vs-s	する-verb - special class	
+suru verb - irregular	vs-i	する-verb - irregular	
+Kyoto-ben	kyb	Kyoto dialect （京都弁）	
+Osaka-ben	osb	Osaka dialect （大阪弁）	
+Kansai-ben	ksb	Kansai dialect （関西弁）	
+Kantou-ben	ktb	Kantou Dialect （関東弁）	
+Tosa-ben	tsb	Tosa dialect （土佐弁）	
+Touhoku-ben	thb	Touhoku dialect （東北弁）	
+Tsugaru-ben	tsug	Tsugaru dialect （津軽弁）	
+Kyuushuu-ben	kyu	Kyuushuu dialect （九州弁）	
+Ryuukyuu-ben	rkb	Ryuukyuu dialect （琉球弁）	
+Nagano-ben	nab	Nagano dialect （長野弁）	
+Hokkaido-ben	hob	Hokkaido dialect （北海道弁）	
+transitive verb	vt	Transitive verb （他動詞）	
+vulgar expression or word	vulg	Vulgar	
+`kari' adjective (archaic)	adj-kari	かり-adjective (archaic)	
+`ku' adjective (archaic)	adj-ku	く-adjective (archaic)	
+`shiku' adjective (archaic)	adj-shiku	しく-adjective (archaic)	
+archaic/formal form of na-adjective	adj-nari	なり-adjective (archaic/formal)	
+proper noun	n-pr	Proper noun	
+verb unspecified	v-unspec	Verb - unspecified	
+Yodan verb with `ku' ending (archaic)	v4k	Group 4 verb （四段動詞） with く ending (archaic)	
+Yodan verb with `gu' ending (archaic)	v4g	Group 4 verb （四段動詞） with ぐ ending (archaic)	
+Yodan verb with `su' ending (archaic)	v4s	Group 4 verb （四段動詞） with す ending (archaic)	
+Yodan verb with `tsu' ending (archaic)	v4t	Group 4 verb （四段動詞） with つ ending (archaic)	
+Yodan verb with `nu' ending (archaic)	v4n	Group 4 verb （四段動詞） with ぬ ending (archaic)	
+Yodan verb with `bu' ending (archaic)	v4b	Group 4 verb （四段動詞） with ぶ ending (archaic)	
+Yodan verb with `mu' ending (archaic)	v4m	Group 4 verb （四段動詞） with む ending (archaic)	
+Nidan verb (upper class) with `ku' ending (archaic)	v2k-k	Upper-class group 2 verb （上二段動詞） with く ending (archaic)	
+Nidan verb (upper class) with `gu' ending (archaic)	v2g-k	Upper-class group 2 verb （上二段動詞） with ぐ ending (archaic)	
+Nidan verb (upper class) with `tsu' ending (archaic)	v2t-k	Upper-class group 2 verb （上二段動詞） with つ ending (archaic)	
+Nidan verb (upper class) with `dzu' ending (archaic)	v2d-k	Upper-class group 2 verb （上二段動詞） with づ ending (archaic)	
+Nidan verb (upper class) with `hu/fu' ending (archaic)	v2h-k	Upper-class group 2 verb （上二段動詞） with ふ ending (archaic)	
+Nidan verb (upper class) with `bu' ending (archaic)	v2b-k	Upper-class group 2 verb （上二段動詞） with ぶ ending (archaic)	
+Nidan verb (upper class) with `mu' ending (archaic)	v2m-k	Upper-class group 2 verb （上二段動詞） with む ending (archaic)	
+Nidan verb (upper class) with `yu' ending (archaic)	v2y-k	Upper-class group 2 verb （上二段動詞） with ゆ ending (archaic)	
+Nidan verb (upper class) with `ru' ending (archaic)	v2r-k	Upper-class group 2 verb （上二段動詞） with る ending (archaic)	
+Nidan verb (lower class) with `ku' ending (archaic)	v2k-s	Lower-class group 2 verb （上二段動詞） with く ending (archaic)	
+Nidan verb (lower class) with `gu' ending (archaic)	v2g-s	Lower-class group 2 verb （上二段動詞） with ぐ ending (archaic)	
+Nidan verb (lower class) with `su' ending (archaic)	v2s-s	Lower-class group 2 verb （上二段動詞） with す ending (archaic)	
+Nidan verb (lower class) with `zu' ending (archaic)	v2z-s	Lower-class group 2 verb （上二段動詞） with ず ending (archaic)	
+Nidan verb (lower class) with `tsu' ending (archaic)	v2t-s	Lower-class group 2 verb （上二段動詞） with つ ending (archaic)	
+Nidan verb (lower class) with `dzu' ending (archaic)	v2d-s	Lower-class group 2 verb （上二段動詞） with づ ending (archaic)	
+Nidan verb (lower class) with `nu' ending (archaic)	v2n-s	Lower-class group 2 verb （上二段動詞） with ぬ ending (archaic)	
+Nidan verb (lower class) with `hu/fu' ending (archaic)	v2h-s	Lower-class group 2 verb （上二段動詞） with ふ ending (archaic)	
+Nidan verb (lower class) with `bu' ending (archaic)	v2b-s	Lower-class group 2 verb （上二段動詞） with ぶ ending (archaic)	
+Nidan verb (lower class) with `mu' ending (archaic)	v2m-s	Lower-class group 2 verb （上二段動詞） with む ending (archaic)	
+Nidan verb (lower class) with `yu' ending (archaic)	v2y-s	Lower-class group 2 verb （上二段動詞） with ゆ ending (archaic)	
+Nidan verb (lower class) with `ru' ending (archaic)	v2r-s	Lower-class group 2 verb （上二段動詞） with る ending (archaic)	
+Nidan verb (lower class) with `u' ending and `we' conjugation (archaic)	v2w-s	Lower-class group 2 verb （上二段動詞） with う ending and ゑ conjugation (archaic)	
+architecture term	archit	Architecture	
+astronomy, etc. term	astron	Astronomy	
+baseball term	baseb	Baseball	
+biology term	biol	Biology	
+botany term	bot	Botany	
+business term	bus	Business	
+economics term	econ	Economics	
+engineering term	engr	Engineering	
+finance term	finc	Finance	
+geology, etc. term	geol	Geology	
+law, etc. term	law	Law	
+mahjong term	mahj	Mahjong	
+medicine, etc. term	med	Medicine	
+music term	music	Music	
+Shinto term	Shinto	Shinto	
+shogi term	shogi	Shogi	
+sports term	sports	Sports	
+sumo term	sumo	Sumo	
+zoology term	zool	Zoology	
+jocular, humorous term	joc	Humorous	
+anatomical term	anat	Anatomy	
